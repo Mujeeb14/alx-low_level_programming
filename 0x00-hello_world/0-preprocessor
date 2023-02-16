@@ -1,1 +1,2 @@
-#!/bin/bash
+#!/bin/bas
+export CFILE=0-main.c ;
